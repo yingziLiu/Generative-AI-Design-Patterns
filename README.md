@@ -6,7 +6,7 @@
 
 [点击进入配套示例包下载页面](https://github.com/yingziLiu/Generative-AI-Design-Patterns/releases/latest)
 
-进入页面后，在 **Assets** 中下载 **图解大模型设计模式_配套示例包.zip**。请勿将 GitHub 自动生成的 Source code 压缩包作为配套示例包下载。
+进入页面后，在 **Assets** 中下载 **Generative-AI-Design-Patterns_Examples.zip**。请勿将 GitHub 自动生成的 Source code 压缩包作为配套示例包下载。
 
 解压后，请先阅读包内的 READER_EDITION_README.txt，并按各示例要求准备运行环境。
 
